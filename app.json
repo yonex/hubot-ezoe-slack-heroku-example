@@ -1,0 +1,16 @@
+{
+  "env": {
+    "HUBOT_SLACK_TOKEN": {
+      "description": "this is the API token for the Slack user you would like to run Hubot under."
+    },
+    "HUBOT_EZOE_USERNAME": {
+      "description": "あなたの ask.fm アカウントの username"
+    },
+    "HUBOT_EZOE_PASSWORD": {
+      "description": "あなたの ask.fm アカウントの password"
+    }
+  },
+  "addons": [
+    "rediscloud:30"
+  ]
+}
