@@ -19,7 +19,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.0",
     "pm2": "~0.15.7",
-    "hubot-ezoe": "0.0.2"
+    "hubot-ezoe": "0.0.3"
   },
   "engines": {
     "node": "0.10.x"
