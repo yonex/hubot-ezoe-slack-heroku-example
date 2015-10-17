@@ -9,8 +9,5 @@
     "HUBOT_EZOE_PASSWORD": {
       "description": "あなたの ask.fm アカウントの password"
     }
-  },
-  "addons": [
-    "rediscloud:30"
-  ]
+  }
 }
